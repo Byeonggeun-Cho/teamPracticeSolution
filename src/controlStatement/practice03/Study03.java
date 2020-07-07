@@ -35,6 +35,7 @@ public class Study03 {
 		System.out.print("단수: ");
 		dan = sc.nextInt();
 
+	
 		if(dan >0) {
 			
 			for(int i=1; i<10; i++) {
