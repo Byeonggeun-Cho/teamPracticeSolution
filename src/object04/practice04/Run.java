@@ -15,7 +15,7 @@
 //      y
 //       반갑습니다
 
-package object03.practice04;
+package object04.practice04;
 
 import java.util.Scanner;
 
