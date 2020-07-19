@@ -24,8 +24,10 @@ package object.practice02;
 public class Run {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		// 해당 제시문으로 문제 못 품
+		
+		
 	}
 
 }

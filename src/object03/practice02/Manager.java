@@ -42,7 +42,7 @@ public class Manager {
 			case 2:
 				quizGame(user);
 
-				System.out.print("Q." + user.getName() + "님, 다시 하시겠습니까? (Y/N) :");
+				System.out.print("Q." + user.getName() + "님, 다시 하시겠습니까? (Y/N) : ");
 				if (sc.next().toUpperCase().charAt(0) == 'Y') {
 					break;
 				} else {
