@@ -12,9 +12,9 @@ public class Consumer extends Thread {
 		for(int i=0; i<=4; i++) {
 			buffer.consumItem();
 			
-			if(i == 4) {
-				System.out.println("마지막 제품이 사용되었습니다.");
-			}
+//			if(i == 4) {
+//				System.out.println("마지막 제품이 사용되었습니다.");
+//			}
 			try {
 				Thread.sleep(2000);
 			} catch (InterruptedException e) {

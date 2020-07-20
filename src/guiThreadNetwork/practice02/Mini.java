@@ -23,7 +23,7 @@ public class Mini extends JFrame {
 		
 		JTextArea ta = new JTextArea();
 		
-		jf.add(button,"North");
+		jf.add(button,"South");
 		jf.add(ta,"Center");
 		
 		button.addActionListener(new ActionListener() {
